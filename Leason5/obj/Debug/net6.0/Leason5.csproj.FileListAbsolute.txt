@@ -1,0 +1,15 @@
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.csproj.AssemblyReference.cache
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.AssemblyInfoInputs.cache
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.AssemblyInfo.cs
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.csproj.CoreCompileInputs.cache
+C:\GIT\SeminarC#5\Leason5\bin\Debug\net6.0\Leason5.exe
+C:\GIT\SeminarC#5\Leason5\bin\Debug\net6.0\Leason5.deps.json
+C:\GIT\SeminarC#5\Leason5\bin\Debug\net6.0\Leason5.runtimeconfig.json
+C:\GIT\SeminarC#5\Leason5\bin\Debug\net6.0\Leason5.dll
+C:\GIT\SeminarC#5\Leason5\bin\Debug\net6.0\Leason5.pdb
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.dll
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\refint\Leason5.dll
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.pdb
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\Leason5.genruntimeconfig.cache
+C:\GIT\SeminarC#5\Leason5\obj\Debug\net6.0\ref\Leason5.dll
